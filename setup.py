@@ -20,7 +20,7 @@ setup(
         "anyconfig>=0.7.0",
         "click>=6.6",
         "contextlib2>=0.5.4",
-        "eth-tester[py-evm]==0.1.0-beta.36",
+        "eth-tester[py-evm]==0.1.0-beta.33",
         "eth-utils>=1.0.3,<2.0.0",
         "jsonschema>=2.5.1",
         "py-geth>=1.9.0",

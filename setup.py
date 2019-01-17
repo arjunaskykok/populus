@@ -21,7 +21,7 @@ setup(
         "click>=6.6",
         "contextlib2>=0.5.4",
         "eth-tester[py-evm]==0.1.0-beta.32",
-        "eth-utils>=1.0.3,<1.2.0",
+        "eth-utils>=1.0.3,<2.0.0",
         "jsonschema>=2.5.1",
         "py-geth>=1.9.0",
         "py-solc>=1.2.0",
